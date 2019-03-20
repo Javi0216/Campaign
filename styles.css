@@ -1,0 +1,30 @@
+body{
+    background-color:#38C5A1;
+}
+.cano{
+    display:flex;
+    justify-content:center;
+}
+img{
+    width:35%;
+    height:50%;
+}
+.vote{
+    text-align:center;
+    padding:25px;
+    margin:15px;
+    background-color:#BCE8DD;
+}
+.javi{
+    display:flex;
+    justify-content:flex-end;
+}
+.ball{
+    display:flex;
+    justify-content:flex-start;
+}
+.parent{
+    display:flex;
+    justify-content:center;
+}
+
